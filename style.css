@@ -1,0 +1,26 @@
+#bg{
+    /* --bs-bg-opacity: 1; */
+    background-color: rgb(158, 155, 155) !important;
+}
+    .heading{
+        margin: auto;
+        color: rgb(255, 255, 255);
+    }
+#light{
+    outline-color: aliceblue;
+}
+.btn-outline-primary {
+    --bs-btn-hover-border-color: #000000!important;
+    --bs-btn-color: #000000!important;
+    /* --bs-btn-color: #0d6efd; */
+    --bs-btn-border-color: #1c1c1c!important;
+}
+
+.dark{
+    background-color: #383838;
+    color: white;
+}
+.light{
+background-color: white;
+color: black;
+}
